@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "kdf": "argon2id",
+  "time": 2,
+  "memory": 32768,
+  "threads": 1,
+  "salt": "7CKwsgIVS6bwUS6Znbd/1w==",
+  "nonce": "HKfInTtGIdCfLQs3",
+  "ct": "f2uXZZgGjIqXiZ8aYNaI0Bhe"
+}
